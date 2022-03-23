@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Smoke Testing Suite" duration-ms="23987" started-at="2022-03-19T18:22:20 CDT" finished-at="2022-03-19T18:22:44 CDT">
+    <groups>
+    </groups>
+    <test name="Citibank Tests" duration-ms="23987" started-at="2022-03-19T18:22:20 CDT" finished-at="2022-03-19T18:22:44 CDT">
+      <class name="com.magnus.day28.AssertDemo">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.magnus.day28.AssertDemo@67b467e9]" name="setup" is-config="true" duration-ms="22147" started-at="2022-03-19T18:22:20 CDT" finished-at="2022-03-19T18:22:42 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="verifyHomelendinglnk()[pri:0, instance:com.magnus.day28.AssertDemo@67b467e9]" name="verifyHomelendinglnk" duration-ms="635" started-at="2022-03-19T18:22:42 CDT" finished-at="2022-03-19T18:22:43 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyHomelendinglnk -->
+        <test-method status="PASS" signature="verifyinvestmentlnk()[pri:0, instance:com.magnus.day28.AssertDemo@67b467e9]" name="verifyinvestmentlnk" duration-ms="298" started-at="2022-03-19T18:22:43 CDT" finished-at="2022-03-19T18:22:43 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyinvestmentlnk -->
+        <test-method status="PASS" signature="dismiss()[pri:0, instance:com.magnus.day28.AssertDemo@67b467e9]" name="dismiss" is-config="true" duration-ms="852" started-at="2022-03-19T18:22:43 CDT" finished-at="2022-03-19T18:22:44 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dismiss -->
+      </class> <!-- com.magnus.day28.AssertDemo -->
+    </test> <!-- Citibank Tests -->
+  </suite> <!-- Smoke Testing Suite -->
+</testng-results>

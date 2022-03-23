@@ -1,0 +1,9 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name= "Smoke Testing Suite">
+<test name= "Citibank Tests" >
+<classes>
+<class name="com.magnus.day28.AssertDemo">
+</class>
+</classes>
+</test>
+</suite>
